@@ -40,6 +40,23 @@ The overall population satisfied the design specification but indicated a large 
 
 ## T-Tests on Suspension Coils
 
+Using a T-Test to compare the lot samples to the population mean of 1500 PSI. 
+
+<p align="center">  
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/All_Lot_Ttest.png" width="55%"/>
+</p>
+
+<p align="center">  
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/Lot1_Ttest.png" width="55%"/>
+</p>
+
+<p align="center">  
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/Lot2_Ttest.png" width="55%"/>
+</p>
+
+<p align="center">  
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/Lot3_Ttest.png" width="55%"/>
+</p>
 
 
 ## Study Design: MechaCar vs Competition
