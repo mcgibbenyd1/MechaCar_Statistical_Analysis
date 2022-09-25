@@ -42,21 +42,28 @@ The overall population satisfied the design specification but indicated a large 
 
 Using a T-Test to compare the lot samples to the population mean of 1500 PSI. 
 
+All samples were compared to the population mean. As a whole the p-value is greater than 0.05 so there is not enough evidence to suggest the sample mean and population mean are different.
+
 <p align="center">  
 <img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/All_Lot_Ttest.png" width="55%"/>
 </p>
+
+For Lot1, the p-value is 1 so there is no difference between the two means other than by chance..
 
 <p align="center">  
 <img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/Lot1_Ttest.png" width="55%"/>
 </p>
 
+For Lot2, the p-value is 0.61 and there is not significant evidence to reject the null hypothesis.
+
 <p align="center">  
 <img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/Lot2_Ttest.png" width="55%"/>
 </p>
 
+For Lot3, the p-value is .042. There is significant evidence to reject the null hypothesis and that the population mean and sample mean are statistically different. 
+
 <p align="center">  
 <img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/Lot3_Ttest.png" width="55%"/>
 </p>
-
 
 ## Study Design: MechaCar vs Competition
