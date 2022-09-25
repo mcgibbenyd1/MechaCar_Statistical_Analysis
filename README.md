@@ -25,11 +25,11 @@ Due to the intercept being statistically impactful if each variable was set to z
 ## Summary Statistics on Suspension Coils
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/total_summary_table_D2.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/total_summary_table_D2.png" width="40%"/>
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/lot_summary_table_D2.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/lot_summary_table_D2.png" width="55%"/>
 </p>
 
 ## T-Tests on Suspension Coils
