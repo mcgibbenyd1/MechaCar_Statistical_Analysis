@@ -67,3 +67,13 @@ For Lot3, the p-value is .042. There is significant evidence to reject the null 
 </p>
 
 ## Study Design: MechaCar vs Competition
+
+A statistical study could be created to compare the MechaCar performance against the competition by comparing the average miles per gallon of cars operating on different octane petrols and diesel fuels with multiple different piston motors and drivetrains. 
+
+H0 : The means of all groups have equal mpg between competitor cars based on fuel type, or µ1 = µ2 = … = µn.
+
+Ha : At least one of the means is different from all other groups.
+
+An ANOVA test will be used to compare the means between competitor models.
+
+The dependant variable being MPG and independant variables being fuel type, cylinders in engine, formation of cyclinders, vehicle length, vehicle weight, and tire diameter and grouped by vehicle subclass.
