@@ -24,13 +24,19 @@ Due to the intercept being statistically impactful if each variable was set to z
 
 ## Summary Statistics on Suspension Coils
 
+A dataset containing the results from multiple production lots for suspension coils was analyzed with the basic statistic summary of  mean, median, variance, and standard deviation. The total population was reviewed and then each lot individually.
+
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/total_summary_table_D2.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/total_summary_table_D2.png" width="40%"/>
 </p>
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/lot_summary_table_D2.png" width="85%"/>
+<img src="https://github.com/mcgibbenyd1/MechaCar_Statistical_Analysis/blob/main/lot_summary_table_D2.png" width="55%"/>
 </p>
+
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+The overall population satisfied the design specification but indicated a large variance and standard deviation. When reveiwing each individual lot: Lot1 has a perfect centering of collected data, Lot2 has a high variance indicating that even though the lot is centered there are a few data points that were equally spaced higher and lower than nominal, Lot3 is negatively skewed and contributing to almost all the variance in the population and should be rejected as the variance is indicating this lot is not in control with a variance of 170 which is higher than the 100 pounds per square inch allowance. 
 
 ## T-Tests on Suspension Coils
 
